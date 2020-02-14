@@ -1,2 +1,2 @@
 # Ambiente de desenvolvimento Nodejs
-## Sucrase + nodemon
+## Sucrase + nodemon + sequelize
